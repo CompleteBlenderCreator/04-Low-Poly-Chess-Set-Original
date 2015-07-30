@@ -33,5 +33,15 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 ## Re-centring Your Objects
 * How to centre your model in the view.
 * Learn how to control an objects origin.
+
+## Creating A Standard Asset
+* Chose a style of chess set.
+* Decide on construction method.
+* Start creating our asset.
+
+CONSTRUCTION METHOD
+
+* Split our models into two components.
+* Make a standard base asset that we can work from for all the other models.
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
