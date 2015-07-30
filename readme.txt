@@ -47,5 +47,16 @@ CONSTRUCTION METHOD
 ## Using The Bevel Tool
 * Box model the chess piece base.
 * Using the bevel tool to round off our sharp edges.
+
+## Appending or Duplicating
+* Learn when you would duplicate an asset model.
+* Choose when appending would be better.
+
+Duplicating Vs Appending
+* Appending picks out key parts of a blend file.
+* Other Scene data would have to be appended separately.
+* Duplicating would be exactly the same as the original file with everything intact.
+
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
