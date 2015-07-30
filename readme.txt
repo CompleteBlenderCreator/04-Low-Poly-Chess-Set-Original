@@ -43,5 +43,9 @@ CONSTRUCTION METHOD
 
 * Split our models into two components.
 * Make a standard base asset that we can work from for all the other models.
+
+## Using The Bevel Tool
+* Box model the chess piece base.
+* Using the bevel tool to round off our sharp edges.
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
