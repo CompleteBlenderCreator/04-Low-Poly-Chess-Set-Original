@@ -61,5 +61,18 @@ Duplicating Vs Appending
 * Learning the power of bridging edge loops.
 * Opps our pawn is lovely but has too many polygons! 
 
+## Where To Keep Materials In Blender
+* Decide how we can manage our materials.
+* Creating materials in one blend file.
+* Each project will have a different way of handling materials depending on it’s size and scope.
+
+MATERIALS IN OUR PROJECT
+* 32 Pieces: Black & White
+* Board: Black & White & Wooden Surround
+* 5 Materials in the project.
+* We’re going to assign materials in a Chess Scene Blend file.
+
+## 
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
