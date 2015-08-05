@@ -57,6 +57,9 @@ Duplicating Vs Appending
 * Other Scene data would have to be appended separately.
 * Duplicating would be exactly the same as the original file with everything intact.
 
+## Bridging Edge Loops
+* Learning the power of bridging edge loops.
+* Opps our pawn is lovely but has too many polygons! 
 
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
