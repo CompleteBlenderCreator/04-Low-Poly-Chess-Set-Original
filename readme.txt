@@ -84,5 +84,12 @@ MATERIALS IN OUR PROJECT
 * Toggle ‘Limit selection to visible’.
 * Build the rest of the Bishop.
 
+## Boolean Modifier
+* Experiment with a boolean modifier.
+* Understand how to apply it to our model.
+* Can been used constructively and destructively.
+* It can work in edit mode.
+* Real time and live!
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
