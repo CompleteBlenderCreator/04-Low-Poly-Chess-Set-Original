@@ -72,7 +72,17 @@ MATERIALS IN OUR PROJECT
 * 5 Materials in the project.
 * We’re going to assign materials in a Chess Scene Blend file.
 
-## 
+## The 3D Cursor and Origin
+* Take another look at our reference pieces.
+* Look for commonality to save us time with modelling.
+* Use the 3D Cursor and Origin to accurately control our piece.
+
+## Selecting Hidden Geometry
+* Learn how to select geometry that isn’t visible.
+* Two straight forward ways,
+* Switch view port shading to wireframe.
+* Toggle ‘Limit selection to visible’.
+* Build the rest of the Bishop.
 
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
