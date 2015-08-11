@@ -106,5 +106,11 @@ Keeping It Lean
 * Link duplicate our bishop and pawns.
 * Managing our models in this scene.
 
+## Parent and Child Objects
+* See how parents can group together objects, their children.
+* Create a hierarchy which is easy to navigate.
+* We’ll be using this to logically group our pieces.
+* Parent>Child>Grand Child>Great Grand Child!
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
