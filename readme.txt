@@ -91,5 +91,20 @@ MATERIALS IN OUR PROJECT
 * It can work in edit mode.
 * Real time and live!
 
+## Introduction To Empties In Blender
+* Introducing the concept of an empty.
+* An empty is a null object, and has no geometry.
+* They can be used as a handle to control objects.
+* Used as a parent object for a group of objects.
+* Many other uses.
+
+Keeping It Lean
+
+* Append the bishop into our chess scene.
+* Check everything is right proportion wise.
+* Start filling up our board, creating the white pawns.
+* Link duplicate our bishop and pawns.
+* Managing our models in this scene.
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
