@@ -98,8 +98,7 @@ MATERIALS IN OUR PROJECT
 * Used as a parent object for a group of objects.
 * Many other uses.
 
-Keeping It Lean
-
+KEEPING IT LEAN
 * Append the bishop into our chess scene.
 * Check everything is right proportion wise.
 * Start filling up our board, creating the white pawns.
@@ -111,6 +110,17 @@ Keeping It Lean
 * Create a hierarchy which is easy to navigate.
 * We’ll be using this to logically group our pieces.
 * Parent>Child>Grand Child>Great Grand Child!
+
+## Zoom To Mouse & Rotate Around Selection
+* Great for working around more complex scenes.
+* We’re changing the user preferences.
+* Demonstrate both zoom to mouse and rotate around selection.
+* Other view options available.
+
+VIEW OPTIONS
+* View>View Selected (NumberPad .)
+* View Dolly: Ctrl + Shift + Middle-Mouse / Ctrl+ Shift + +/-.
+* Walk/Fly Mode: Shift + F.
 
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
