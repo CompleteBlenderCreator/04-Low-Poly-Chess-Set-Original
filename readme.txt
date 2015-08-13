@@ -122,5 +122,11 @@ VIEW OPTIONS
 * View Dolly: Ctrl + Shift + Middle-Mouse / Ctrl+ Shift + +/-.
 * Walk/Fly Mode: Shift + F.
 
+## Lighting in Blender Render
+* Understand that lamps apply to Blender Render.
+* Light is handled differently in Cycles.
+* Adjusting lamps properties and seeing it’s affect.
+* We will switch to rendered mode in the viewport shading options to see this effect.
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
