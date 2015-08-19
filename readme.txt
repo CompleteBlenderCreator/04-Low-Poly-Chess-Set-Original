@@ -128,5 +128,8 @@ VIEW OPTIONS
 * Adjusting lamps properties and seeing it’s affect.
 * We will switch to rendered mode in the viewport shading options to see this effect.
 
+## Hiding Un-Needed Objects.
+* Discover it is useful when working on larger and more complex assemblies or scenes.
+* Control whether you are hiding groups of objects as well as individuals.
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
