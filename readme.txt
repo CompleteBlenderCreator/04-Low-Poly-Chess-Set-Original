@@ -149,5 +149,9 @@ DEFUSE vs SPECULAR REFLECTIONS
 * Reinforce the defuse and specular settings.
 * Model the board surround.
 * Apply a texture to the board surround.
+
+## Using Procedural Textures
+* Introduce procedural textures.
+* Apply some to the chequers on the board.
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
