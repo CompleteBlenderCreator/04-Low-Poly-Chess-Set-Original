@@ -143,5 +143,11 @@ DEFUSE vs SPECULAR REFLECTIONS
 * Defuse is when Light scatters as it hits a surface.
 * Specular is direct reflection of the light to the viewer.
 * Materials are often a mix of the two.
+
+## Using An Image As A Texture
+* Show you how to add a texture to your material.
+* Reinforce the defuse and specular settings.
+* Model the board surround.
+* Apply a texture to the board surround.
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
