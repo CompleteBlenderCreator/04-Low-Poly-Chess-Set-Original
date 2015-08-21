@@ -131,5 +131,17 @@ VIEW OPTIONS
 ## Hiding Un-Needed Objects.
 * Discover it is useful when working on larger and more complex assemblies or scenes.
 * Control whether you are hiding groups of objects as well as individuals.
+
+## Defuse and Specular: Blender Render
+* Need to understand these for getting rendering right.
+* Looking at the two in isolation.
+* Combining them to see the effect.
+* Still using Blender Render.
+
+DEFUSE vs SPECULAR REFLECTIONS
+* Both are types of reflection.
+* Defuse is when Light scatters as it hits a surface.
+* Specular is direct reflection of the light to the viewer.
+* Materials are often a mix of the two.
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
