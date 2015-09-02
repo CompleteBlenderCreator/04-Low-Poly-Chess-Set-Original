@@ -159,5 +159,27 @@ DEFUSE vs SPECULAR REFLECTIONS
 * Explain what they are.
 * Whatever you use- it is being converted back to triangles in the background.
 * Watch out making things non planer…
+
+## Non Planer Geometry
+* Only happens with quads and NGons.
+* Rendering & Exporting always converts geometry into triangles.- Lose control over the rendering.
+* You cannot always see this in the 3D window.
+* Makes a huge difference with flat models and flat shading.
+
+TRIANGLES AND NGONS
+* If your model comes to a point you might need a triangle.
+* When sub dividing part of you model you are likely to create an NGon elsewhere.
+* You will break loops when doing this.
+
+SOLUTIONS
+*Good mesh topology from the beginning.
+*Be lean and check your model through.
+*Turn on mesh analysis (not 100%).
+*Manually make face(s) Planar again. Normal, SZZ0.
+
+## Edge Ring Select
+* Learn about edge rings.
+* How they help you manage your geometry.
+* Definition: A series of edges which are not directly connected, but share faces.
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
