@@ -181,5 +181,9 @@ SOLUTIONS
 * Learn about edge rings.
 * How they help you manage your geometry.
 * Definition: A series of edges which are not directly connected, but share faces.
+
+## The Mirror Modifier
+* How to setup and use the Mirror modifier.
+* Start creating our Knight.
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
