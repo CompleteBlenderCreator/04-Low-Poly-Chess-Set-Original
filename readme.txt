@@ -153,5 +153,11 @@ DEFUSE vs SPECULAR REFLECTIONS
 ## Using Procedural Textures
 * Introduce procedural textures.
 * Apply some to the chequers on the board.
+
+# Quads Vs Triangles… and Ngons
+* Better overall to make models using quads.
+* Explain what they are.
+* Whatever you use- it is being converted back to triangles in the background.
+* Watch out making things non planer…
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
