@@ -185,5 +185,12 @@ SOLUTIONS
 ## The Mirror Modifier
 * How to setup and use the Mirror modifier.
 * Start creating our Knight.
+
+## The Edge Split Modifier
+* Focus on creating a free form model.
+* Ensuring faces are not triangulated when being created to keep with our style.
+* Introduce the edge split modifier.
+* This is the basis of organic modelling.
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
