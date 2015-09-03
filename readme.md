@@ -19,7 +19,7 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Store your files for quick recall.
 * This is just a suggested workflow.
 
-##Planning Our Project
+## Planning Our Project
 * Check out the design specs of a chess board.
 * Design our chess board using that info.
 * Decide on a working scale.
@@ -39,7 +39,7 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Decide on construction method.
 * Start creating our asset.
 
-CONSTRUCTION METHOD
+### Construction Method
 
 * Split our models into two components.
 * Make a standard base asset that we can work from for all the other models.
@@ -66,7 +66,7 @@ Duplicating Vs Appending
 * Creating materials in one blend file.
 * Each project will have a different way of handling materials depending on it’s size and scope.
 
-MATERIALS IN OUR PROJECT
+### Materials in Our Project
 * 32 Pieces: Black & White
 * Board: Black & White & Wooden Surround
 * 5 Materials in the project.
@@ -98,7 +98,7 @@ MATERIALS IN OUR PROJECT
 * Used as a parent object for a group of objects.
 * Many other uses.
 
-KEEPING IT LEAN
+### Keeping It Lean
 * Append the bishop into our chess scene.
 * Check everything is right proportion wise.
 * Start filling up our board, creating the white pawns.
@@ -117,7 +117,7 @@ KEEPING IT LEAN
 * Demonstrate both zoom to mouse and rotate around selection.
 * Other view options available.
 
-VIEW OPTIONS
+### View Options
 * View>View Selected (NumberPad .)
 * View Dolly: Ctrl + Shift + Middle-Mouse / Ctrl+ Shift + +/-.
 * Walk/Fly Mode: Shift + F.
@@ -138,9 +138,9 @@ VIEW OPTIONS
 * Combining them to see the effect.
 * Still using Blender Render.
 
-DEFUSE vs SPECULAR REFLECTIONS
+### Diffuse and Specular Reflections
 * Both are types of reflection.
-* Defuse is when Light scatters as it hits a surface.
+* Diffuse is when Light scatters as it hits a surface.
 * Specular is direct reflection of the light to the viewer.
 * Materials are often a mix of the two.
 
@@ -166,12 +166,12 @@ DEFUSE vs SPECULAR REFLECTIONS
 * You cannot always see this in the 3D window.
 * Makes a huge difference with flat models and flat shading.
 
-TRIANGLES AND NGONS
+### Triangles and nGons
 * If your model comes to a point you might need a triangle.
 * When sub dividing part of you model you are likely to create an NGon elsewhere.
 * You will break loops when doing this.
 
-SOLUTIONS
+### Solutions
 *Good mesh topology from the beginning.
 *Be lean and check your model through.
 *Turn on mesh analysis (not 100%).
@@ -191,6 +191,12 @@ SOLUTIONS
 * Ensuring faces are not triangulated when being created to keep with our style.
 * Introduce the edge split modifier.
 * This is the basis of organic modelling.
+
+## Setting Up A Camera For Rendering
+* Learn about camera placement.
+* They're a directional object.
+* Overview of the camera settings.
+* You can have more than one camera, but only one active camera.
 
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
