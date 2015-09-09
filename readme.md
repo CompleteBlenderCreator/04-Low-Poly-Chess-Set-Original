@@ -39,8 +39,7 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Decide on construction method.
 * Start creating our asset.
 
-### Construction Method
-
+## Construction Method
 * Split our models into two components.
 * Make a standard base asset that we can work from for all the other models.
 
@@ -52,7 +51,7 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Learn when you would duplicate an asset model.
 * Choose when appending would be better.
 
-Duplicating Vs Appending
+## Duplicating Vs Appending
 * Appending picks out key parts of a blend file.
 * Other Scene data would have to be appended separately.
 * Duplicating would be exactly the same as the original file with everything intact.
@@ -66,7 +65,7 @@ Duplicating Vs Appending
 * Creating materials in one blend file.
 * Each project will have a different way of handling materials depending on it’s size and scope.
 
-### Materials in Our Project
+## Materials in Our Project
 * 32 Pieces: Black & White
 * Board: Black & White & Wooden Surround
 * 5 Materials in the project.
@@ -98,7 +97,7 @@ Duplicating Vs Appending
 * Used as a parent object for a group of objects.
 * Many other uses.
 
-### Keeping It Lean
+## Keeping It Lean
 * Append the bishop into our chess scene.
 * Check everything is right proportion wise.
 * Start filling up our board, creating the white pawns.
@@ -117,7 +116,7 @@ Duplicating Vs Appending
 * Demonstrate both zoom to mouse and rotate around selection.
 * Other view options available.
 
-### View Options
+## View Options
 * View>View Selected (NumberPad .)
 * View Dolly: Ctrl + Shift + Middle-Mouse / Ctrl+ Shift + +/-.
 * Walk/Fly Mode: Shift + F.
@@ -138,7 +137,7 @@ Duplicating Vs Appending
 * Combining them to see the effect.
 * Still using Blender Render.
 
-### Diffuse and Specular Reflections
+## Diffuse and Specular Reflections
 * Both are types of reflection.
 * Diffuse is when Light scatters as it hits a surface.
 * Specular is direct reflection of the light to the viewer.
@@ -154,7 +153,7 @@ Duplicating Vs Appending
 * Introduce procedural textures.
 * Apply some to the chequers on the board.
 
-# Quads Vs Triangles… and Ngons
+## Quads Vs Triangles… and Ngons
 * Better overall to make models using quads.
 * Explain what they are.
 * Whatever you use- it is being converted back to triangles in the background.
@@ -197,6 +196,13 @@ Duplicating Vs Appending
 * They're a directional object.
 * Overview of the camera settings.
 * You can have more than one camera, but only one active camera.
+
+## CS33 Exporting Your Model
+* Tidy our folders for future access.
+* Export your model(s) as an FBX.
+* Import .FBX into Unreal and Unity game engines.
+* Opening Blender models in Unity 5.
+* About exporting textures and materials.
 
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
