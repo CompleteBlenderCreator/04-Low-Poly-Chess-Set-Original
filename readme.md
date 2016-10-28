@@ -1,4 +1,4 @@
-# Section 4 - Low Poly Chess Set
+﻿# Section 4 - Low Poly Chess Set
 ****
 
 Part of the Complete Blender Creator course on Udemy, see [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount) for a special GitHub offer. The full course is part of [this](https://www.kickstarter.com/projects/bentristem/how-to-create-3d-assets-using-blender-online-cours) Kickstarter campaign which was 1000% funded.
@@ -185,7 +185,7 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * How to setup and use the Mirror modifier.
 * Start creating our Knight.
 
-## The Edge Split Modifier
+## The Edge Split Modifier (Update 28/10/16)
 * Focus on creating a free form model.
 * Ensuring faces are not triangulated when being created to keep with our style.
 * Introduce the edge split modifier.
