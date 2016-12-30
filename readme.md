@@ -58,7 +58,7 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 
 ## Bridging Edge Loops
 * Learning the power of bridging edge loops.
-* Opps our pawn is lovely but has too many polygons! 
+* Opps our pawn is lovely but has too many polygons!
 
 ## Where To Keep Materials In Blender
 * Decide how we can manage our materials.
@@ -83,7 +83,7 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Toggle ‘Limit selection to visible’.
 * Build the rest of the Bishop.
 
-## Boolean Modifier
+## Boolean Modifier (Edited 30/12/2016)
 * Experiment with a boolean modifier.
 * Understand how to apply it to our model.
 * Can been used constructively and destructively.
