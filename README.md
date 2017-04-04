@@ -110,7 +110,9 @@ Mikey and Ben introduce this section.
 + They can be used as a handle to control objects.
 + Used as a parent object for a group of objects.
 + Many other uses.
-Keeping It Lean
+
+**Keeping It Lean**
+
 + Append the bishop into our chess scene.
 + Check everything is right proportion wise.
 + Start filling up our board, creating the white pawns.
