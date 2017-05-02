@@ -255,6 +255,3 @@ Further Reading on Blender Render Lighting:
 ### End of Section 4 ###
 
 End of the Chess Section.
-
----
-Find out more about our [Complete Blender Creator Course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount).
