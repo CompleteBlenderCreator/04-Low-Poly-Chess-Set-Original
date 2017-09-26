@@ -168,12 +168,13 @@ Further Reading on Blender Render Lighting:
 + Specular is direct reflection of the light to the viewer.
 + Materials are often a mix of the two.
 
-### Using An Image As A Texture ###
+### 23 Using An Image As A Texture
 
 + Show you how to add a texture to your material.
 + Reinforce the defuse and specular settings.
 + Model the board surround.
 + Apply a texture to the board surround.
++ (Updated 26/09/2017)
 
 ### Using Procedural Textures ###
 
