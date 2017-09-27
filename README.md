@@ -21,11 +21,15 @@ Mikey and Ben introduce this section.
 + Decide on a working scale.
 + Play about in Blender to get it feeling right.
 
-### Mesh Objects and Mesh Data ###
+### 06 Mesh Objects And Mesh Data
++ Start creating our chess board.
++ Take over the cube object.
++ Use the grid mesh to create the grid.
 
 + Start creating our chess board
 + Replace a cube mesh object’s mesh data
 + Demonstrate the grid mesh option too
++ Updated 27/09/2017
 
 ### Re-centring Your Objects ###
 
