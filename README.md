@@ -90,6 +90,8 @@
 
 ### 14 The 3D Cursor and Origins ###
 
+### 14b Using Common Features
+
 ### 15 Selecting Hidden Geometry ###
 
 + Learn how to select geometry that isn't visible.
