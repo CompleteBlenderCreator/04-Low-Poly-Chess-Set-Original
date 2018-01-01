@@ -80,6 +80,7 @@
 + Decide how we can manage our materials.
 + Creating materials in _one_ blend file.
 + Each project will have a different way of handling materials depending on it's size and scope.
++ Updated (1/1/2018)
 
 **Materials In Our Project**
 
