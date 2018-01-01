@@ -193,6 +193,7 @@ Further Reading on Blender Render Lighting:
 + Explain what they are.
 + Whatever you use- it is being converted back to triangles in the background.
 + Watch out making things non planer…
++ (Updated 1/1/2018)
 
 ### 26 Non Planar Geometry ###
 
