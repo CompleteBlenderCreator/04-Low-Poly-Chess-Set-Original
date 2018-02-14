@@ -260,6 +260,11 @@ Further Reading on Blender Render Lighting:
 + Opening Blender models in Unity 5.
 + About exporting textures and materials.
 
-### End of Section 4 ###
+### 34 Depth Of Field (Blender Render)
++ Take our first look at the compositor
++ Setup the appropriate nodes to allow a deep of field effect
+
+
+### 99 End of Section 4 ###
 
 End of the Chess Section.
