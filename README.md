@@ -264,6 +264,10 @@ Further Reading on Blender Render Lighting:
 + Take our first look at the compositor
 + Setup the appropriate nodes to allow a deep of field effect
 
+### 35 Using Groups
++ Introduction to using groups
++ Great for organisation
++ Great for moving multiple items from one Blender file to another
 
 ### 99 End of Section 4 ###
 
