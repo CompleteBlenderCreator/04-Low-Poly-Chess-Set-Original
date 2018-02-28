@@ -81,6 +81,16 @@ MATERIALS IN OUR PROJECT
 + Take another look at our reference pieces.
 + Look for commonality to save us time with modelling.
 + Use the 3D Cursor and Origin to accurately control our piece.
+(New Lecture 28/02/2018)
+
+### 15 Selecting Hidden Geometry
++ Learn how to select geometry that isn’t visible.
++ Two straight forward ways,
++ Switch view port shading to wireframe.
++ Toggle ‘Limit selection to visible’.
++ Build the rest of the Bishop.
+(New Lecture 28/02/2018)
+
 
 
 ---
