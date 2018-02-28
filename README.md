@@ -91,6 +91,14 @@ MATERIALS IN OUR PROJECT
 + Build the rest of the Bishop.
 (New Lecture 28/02/2018)
 
+### 16 Boolean Modifier
+
++ Experiment with a boolean modifier.
++ Understand how to apply it to our model.
++ Can been used constructively and destructively.
++ It can work in edit mode.
++ Real time and live!
+(New Lecture 28/02/2018)
 
 
 ---
