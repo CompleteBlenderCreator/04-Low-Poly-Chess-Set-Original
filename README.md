@@ -59,7 +59,7 @@ Duplicating Vs Appending
 
 ### 11 Bridging Edge Loops
 * Learning the power of bridging edge loops.
-* Opps our pawn is lovely but has too many polygons!
+* Oops our pawn is lovely but has too many polygons!
 
 ### 13 Managing The Chess Scene Assets
 * Decide how we can manage our materials.
@@ -76,6 +76,12 @@ MATERIALS IN OUR PROJECT
 + Looking for commonality to use again
 + Speeds up our workflow no having to repeat ourselves.
 (New Lecture 28/02/2018)
+
+### 14b The 3D Cursor and Origins
++ Take another look at our reference pieces.
++ Look for commonality to save us time with modelling.
++ Use the 3D Cursor and Origin to accurately control our piece.
+
 
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
