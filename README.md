@@ -14,27 +14,27 @@ Ben Tristem & Michael Bridges
 ----
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
-## Managing A Larger Project
+### 4 Managing A Larger Project
 * Learn how to manage a larger project.
 * Store your files for quick recall.
 * This is just a suggested workflow.
 
-##Planning Our Project
+### 5 Planning Our Project
 * Check out the design specs of a chess board.
 * Design our chess board using that info.
 * Decide on a working scale.
 * Play about in Blender to get it feeling right.
 
-## Making A Chess Board
+### 6 Making A Chess Board
 * Start creating our chess board.
 * Take over the cube object.
 * Use the grid mesh to create the grid.
 
-## Re-centring Your Objects
+### 7 Re-centring Your Objects
 * How to centre your model in the view.
 * Learn how to control an objects origin.
 
-## Creating A Standard Asset
+### 8 Creating A Standard Asset
 * Chose a style of chess set.
 * Decide on construction method.
 * Start creating our asset.
@@ -44,11 +44,11 @@ CONSTRUCTION METHOD
 * Split our models into two components.
 * Make a standard base asset that we can work from for all the other models.
 
-## Using The Bevel Tool
+### 9 Using The Bevel Tool
 * Box model the chess piece base.
 * Using the bevel tool to round off our sharp edges.
 
-## Appending or Duplicating
+### 10 Appending or Duplicating
 * Learn when you would duplicate an asset model.
 * Choose when appending would be better.
 
@@ -57,11 +57,11 @@ Duplicating Vs Appending
 * Other Scene data would have to be appended separately.
 * Duplicating would be exactly the same as the original file with everything intact.
 
-## Bridging Edge Loops
+### 11 Bridging Edge Loops
 * Learning the power of bridging edge loops.
-* Opps our pawn is lovely but has too many polygons! 
+* Opps our pawn is lovely but has too many polygons!
 
-## Where To Keep Materials In Blender
+### 13 Managing The Chess Scene Assets
 * Decide how we can manage our materials.
 * Creating materials in one blend file.
 * Each project will have a different way of handling materials depending on it’s size and scope.
@@ -72,7 +72,10 @@ MATERIALS IN OUR PROJECT
 * 5 Materials in the project.
 * We’re going to assign materials in a Chess Scene Blend file.
 
-## 
+### 14a Using Common Features
++ Looking for commonality to use again
++ Speeds up our workflow no having to repeat ourselves.
+(New Lecture 28/02/2018)
 
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
