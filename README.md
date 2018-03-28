@@ -162,6 +162,7 @@
 
 Further Reading on Blender Render Lighting:
 + http://wiki.blender.org/index.php/Doc:2.4/Manual/Lighting/Lights/Light_Attenuation
+(Updated 28/3/2018)
 
 ### 21 Hiding Un-Needed Objects. ###
 
